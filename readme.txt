@@ -1,5 +1,5 @@
 ajo0
-ajo2 Temp050 1st commit
+ajoTemp050 1st commit
 
 Master writes ABC
 here and there.
